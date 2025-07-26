@@ -100,10 +100,11 @@ Filtered View Snapshot:
 
 ## 📬 Contact
 
-**📛 Name:** Harshit Kumar  
-**📧 Email:** harshitk.nitp@gmail.com  
-**🔗 LinkedIn:** https://www.linkedin.com/in/harshit-kumar-32bbb7271  
+## 👨‍💻 Developed by: **Harshit Kumar**
 
+🎓 Final-Year Undergraduate | 🎯 Data Enthusiast | 💻 SQL • Python • Power BI  
+📍 NIT Patna | 📬 harshitk.nitp@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/harshit-kumar-32bbb7271) 
 > *Let’s connect and build something impactful together!* 🚀
 
 ---
