@@ -79,7 +79,7 @@ Filtered View Snapshot:
 | `Dashboard1.png` | Full retail analytics dashboard      |
 | `Dashboard2.png` | Filtered insights dashboard          |
 | `README.md`      | GitHub documentation                 |
-
+| `BLINKIT_PROJECT.pbix`|Original File                    |
 ---
 
 ## 🧠 What I Learned
